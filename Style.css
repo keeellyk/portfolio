@@ -1,0 +1,68 @@
+body
+	{
+    background-image: url('background.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+	}
+.main
+	{
+    border: 1px solid white;
+	}
+
+.main-text img
+	{
+    margin-top: 20px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+	}
+
+#text
+	{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 20px white;
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto Thin', sans-serif;
+	}
+
+.main-text h2
+	{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto Thin', sans-serif;
+	}
+
+ul
+	{
+    text-align: center;
+    font-family: 'Roboto Thin', sans-serif;
+    color: white;
+    list-style: none;
+    font-size: 20px;
+	}
+
+#achievements
+	{
+    text-shadow: 0 0 20px white;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto Thin', sans-serif;
+	}
+
+ol
+	{
+    text-align: center;
+    font-family: 'Roboto Thin', sans-serif;
+    color: white;
+    font-size: 25px;
+    list-style: none;
+	}
+
+#sign
+	{
+    font-family: 'Roboto Thin', sans-serif;
+    color: white;
+	}
